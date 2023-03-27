@@ -1,10 +1,10 @@
 {
   "name": "judgeproperty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "js delete empty element functions",
-  "keywords": ["utils", "js-utils"],
+  "keywords": [],
   "main": "index.js",
-  "author": "jiangyichao403",
+  "author": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,8 +12,6 @@
     "type": "git",
     "url": "git+https://github.com/jiangyichao403/judgeEmptyProperty.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jiangyichao403/judgeEmptyProperty/issues"
